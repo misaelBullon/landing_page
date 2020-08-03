@@ -4,7 +4,7 @@ body{
     background-color: lightgrey;
     display: block;
 }
-#encabezado{
+#header{
     width: 100%;
     height: auto;
     margin: 0px;
@@ -23,7 +23,7 @@ body{
    /* float: left;*/
    align-items: flex-start;
 }
-#mario{
+#header-img{
     
     height: 100px;
     width: 120px;
@@ -54,9 +54,9 @@ body{
     color: black;
     display: flex;
 }
-.navlinks{
+.nav-link{
     font-family: 'Kalam', cursive;
-   
+    color: black;
     margin: 2px 5px 2px 5px;
     padding: 2px;
     /*background-color: red;*/
