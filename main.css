@@ -1,0 +1,107 @@
+body{
+    margin: 0;
+    padding-top: 130px;
+    background-color: lightgrey;
+    display: block;
+}
+#encabezado{
+    width: 100%;
+    height: auto;
+    margin: 0px;
+    margin-top: 0px;
+    padding: auto;
+    display: grid;
+    grid-template-columns: 140px auto auto;
+    grid-column-gap: 15px;
+    background-color: lightgrey;
+}
+#imagen{
+    
+    background-color: yellow;
+    margin: 5px;
+    padding: 5px;
+   /* float: left;*/
+   align-items: flex-start;
+}
+#mario{
+    
+    height: 100px;
+    width: 120px;
+}
+#titulo{
+    font-family: 'Kalam', cursive;
+    font-size: x-large;
+    float: left;
+    margin: 5px;
+    padding: 5px;
+    /*background-color: green;*/
+}
+#navegacion{
+    
+    width: auto;
+    height: auto;
+    margin: 2px;
+    padding: 2px;
+    display: flex;
+    justify-self: end;
+    /*background-color: red;*/
+}
+#nav-bar{
+   
+    margin: 2px;
+    padding: 2px;
+    /*background-color: turquoise;*/
+    color: black;
+    display: flex;
+}
+.navlinks{
+    font-family: 'Kalam', cursive;
+   
+    margin: 2px 5px 2px 5px;
+    padding: 2px;
+    /*background-color: red;*/
+}
+/*#nav1{
+    float: left;
+}
+#nav2{
+    float: none;
+}
+#nav3{
+    float: right;
+}
+*/
+#contacto{
+    margin: 0;
+    padding: 5px;
+    /*background-color: grey;*/
+    text-align: center;
+    
+}
+#subtitulo{
+    font-family: 'Kalam', cursive;
+    font-size: large;
+    color: black;
+    /*background-color: lightblue;*/
+    margin: auto;
+    padding: auto;
+    height: auto;
+    width: auto;
+}
+#divcorreo{
+    margin: 2px;
+    padding: 2px;;
+    /*background-color: cyan;*/
+}
+#etiqueta1{
+    font-family: 'Kalam', cursive;
+}
+#divboton{
+    margin: 2px;
+    padding: 2px;
+    
+}
+#boton{
+    background-color: darkorange;
+    font-size: x-large;
+}
