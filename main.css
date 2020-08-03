@@ -101,7 +101,40 @@ body{
     padding: 2px;
     
 }
-#boton{
+#submit{
     background-color: darkorange;
     font-size: x-large;
+}
+#divvid{
+    width: 100%;
+    height: auto;
+    margin: 10px;
+    padding: 5px;
+    /*background-color: lightpink;*/
+    text-align: center;
+}
+#lorem{
+    text-align: center;
+    width: 100%;
+    height: auto;
+    margin: 10px;
+    padding: 5px;
+}
+#lorem1{
+    text-align: center;
+    margin: 2px;
+    padding: 2px;
+    background-color: lightseagreen;
+}
+#lorem2{
+    text-align: center;
+    margin: 2px;
+    padding: 2px;
+    background-color: lightyellow;
+}
+#lorem3{
+    text-align: center;
+    margin: 2px;
+    padding: 2px;
+    background-color: lime;
 }
